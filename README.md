@@ -18,7 +18,8 @@ The dataset consisted of multiple Excel sheets:
 - **Void Items & Orders** – Cancelled or voided transactions and reasons.  
 
 All these sheets were **modeled and connected** in Power BI to create a robust star schema for reporting.  
-📌 [🔗 View Data Model](https://github.com/divyamehulmakwana-bit/Store-Analysis-using-PowerBi/blob/main/Screenshots/Model.png)  
+
+![Data Model](https://github.com/divyamehulmakwana-bit/Store-Analysis-using-PowerBi/blob/main/Screenshots/Model.png)
 
 ---
 
@@ -37,7 +38,7 @@ A high-level summary of sales performance:
   - Line Chart: Sales over time with **forecasting feature** applied.  
   - Ribbon Chart: Top-selling items (Beef Steak on top).  
 
-📌 [🔗 View Page 1](https://github.com/divyamehulmakwana-bit/Store-Analysis-using-PowerBi/blob/main/Screenshots/Page%201.png)  
+![Page 1](https://github.com/divyamehulmakwana-bit/Store-Analysis-using-PowerBi/blob/main/Screenshots/Page%201.png)
 
 ---
 
@@ -49,7 +50,7 @@ A deeper look into item-level performance:
 - Table: **Discount details**.  
 - Table: **Complimentary order details**.  
 
-📌 [🔗 View Page 2](https://github.com/divyamehulmakwana-bit/Store-Analysis-using-PowerBi/blob/main/Screenshots/Page%202.png)  
+![Page 2](https://github.com/divyamehulmakwana-bit/Store-Analysis-using-PowerBi/blob/main/Screenshots/Page%202.png)
 
 ---
 
@@ -62,7 +63,7 @@ Outlet-wise and operational performance summary:
   - Bar Chart: Average sales by hour.  
   - Line Chart: Average monthly sales trend.  
 
-📌 [🔗 View Page 3](https://github.com/divyamehulmakwana-bit/Store-Analysis-using-PowerBi/blob/main/Screenshots/Page%203.png)  
+![Page 3](https://github.com/divyamehulmakwana-bit/Store-Analysis-using-PowerBi/blob/main/Screenshots/Page%203.png)
 
 ---
 
@@ -80,4 +81,6 @@ Outlet-wise and operational performance summary:
 - **Excel** – Raw data storage and cleaning.  
 
 ---
+
+
 
